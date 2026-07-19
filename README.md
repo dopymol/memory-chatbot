@@ -1,6 +1,6 @@
 # Long-Term Memory Chatbot
 
-![Demo screenshot](memory-chatbot.png)
+![Demo screenshot](demo.png)
 
 A chatbot that remembers facts about you across sessions — not by dumping
 raw chat history into an ever-growing context window, but with a proper
