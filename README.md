@@ -1,5 +1,7 @@
 # Long-Term Memory Chatbot
 
+![Demo screenshot](demo.png)
+
 A chatbot that remembers facts about you across sessions — not by dumping
 raw chat history into an ever-growing context window, but with a proper
 two-tier memory architecture: a short-term working buffer and a
