@@ -97,7 +97,7 @@ memory_chatbot/
 └── requirements.txt
 ```
 
-## Design decisions worth mentioning in an interview
+## ## Why it's built this way
 
 - **Why extract facts instead of embedding raw messages?** Raw chat turns
   are noisy — full of filler, references to "it" and "that," and
